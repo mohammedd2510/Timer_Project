@@ -4,6 +4,7 @@
  1. Atmega32
  2. multiplexed 2-digits 7-segment display
  3. 3 push buttons
+ 4. Buzzer
  
  ## Software used :
  ### MCAL LAYER :
